@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_USER": "graphql",
+    "MONGO_PASSWORD": "u4vdrzgsNAaammGJ"
+  }
+}
